@@ -10,7 +10,9 @@ In the project directory, you can run:
 
 ### `npx json-server -p 3500 -w data/db.json`
 
-Runs the database on port 3500. You can use which ever port you like, example 3200, 3002 ...
+Runs the database on port 3500. You can use which ever port you like, example 3200, 3002 ...\
+After you change the port do not forget to change the port in 'app.js'\
+Open [http://localhost:3500/items](http://localhost:3500/items) to view it in your browser. If there is json data that means the database is running.
 
 ### `npm start`
 
