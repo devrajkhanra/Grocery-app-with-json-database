@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "checked": true,
+      "item": "item1"
+    },
+    {
+      "id": 2,
+      "checked": false,
+      "item": "item2"
+    },
+    {
+      "id": 3,
+      "checked": false,
+      "item": "item3"
+    },
+    {
+      "id": 4,
+      "checked": false,
+      "item": "item4"
+    },
+    {
+      "id": 5,
+      "checked": true,
+      "item": "item5"
+    },
+    {
+      "id": 6,
+      "checked": false,
+      "item": "item6"
+    },
+    {
+      "id": 7,
+      "checked": true,
+      "item": "item7"
+    },
+    {
+      "id": 8,
+      "checked": true,
+      "item": "item8"
+    },
+    {
+      "id": 9,
+      "checked": false,
+      "item": "item9"
+    },
+    {
+      "id": 10,
+      "checked": false,
+      "item": "item10"
+    },
+    {
+      "id": 11,
+      "checked": false,
+      "item": "item11"
+    },
+    {
+      "id": 12,
+      "checked": false,
+      "item": "item12"
+    }
+  ]
+}
