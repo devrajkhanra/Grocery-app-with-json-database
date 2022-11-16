@@ -1,4 +1,4 @@
-# Grocery List App
+# Grocery List App with seperate json database
 
 This project was bootstrapped with [React Js](https://reactjs.org/). and [Tailwind Css](https://tailwindcss.com/)
 ![Learn4_screenshot](https://user-images.githubusercontent.com/47315396/202181084-54f0d669-2bc9-4e56-8921-5a9592bb9286.PNG)
